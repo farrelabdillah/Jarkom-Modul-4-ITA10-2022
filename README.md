@@ -43,6 +43,7 @@ Dalam topologi yang telah dibuat di Cisco Packet Tracer, beberapa node yang perl
    Kemudian, double click node yang ingin dikonfigurasikan dan click tab "Config".
    Setelah itu, digunakan tabel subnet yang telah dibuat untuk mengisi ip pada gateway dan ethernet serta subnet mask nya.
    <br>
+   <br>
    IP yang digunakan adalah bagian "Assignable IP Range" pada tabel. Untuk gateway, digunakan Assignable IP pada minimum range.
    <br>
    <img src="Screenshot/9.PNG">
@@ -61,8 +62,8 @@ Dalam topologi yang telah dibuat di Cisco Packet Tracer, beberapa node yang perl
    Kemudian, double click node yang ingin dikonfigurasikan dan click tab "Config".
    Setelah itu, digunakan tabel subnet yang telah dibuat untuk mengisi ip pada routing-static dan ethernet serta subnet mask nya.
    <br>
-   Sama seperti PC, untuk menentukan IP yang akan digunakan akan dilihat tabel pada bagian "Assignable IP Range" sesuai dengan kelompok subnetnya.
    <br>
+   Sama seperti PC, untuk menentukan IP yang akan digunakan akan dilihat tabel pada bagian "Assignable IP Range" sesuai dengan kelompok subnetnya.
    pada bagian ethernet yang sesuai (tersambung dengan pc/server/router sesuai dengan subnetnya), akan digunakan assignable IP pada minimum range kemudian centang port    status supaya bisa terhubung.
    <br>
    <img src="Screenshot/11.PNG">
@@ -77,7 +78,7 @@ Dalam topologi yang telah dibuat di Cisco Packet Tracer, beberapa node yang perl
    <br>
    Konfigurasi pada server memiliki langkah yang sama dengan PC yaitu:
    <br>
-   cek assignable IP sesuai dengan subnet, lalu dilanjut dengan memasukkan assignable IP minimum range tersebut kedalam gateway
+   cek assignable IP sesuai dengan subnet, lalu dilanjut dengan memasukkan assignable IP minimum range tersebut kedalam gateway.
    <br>
    <img src="Screenshot/13.PNG">
    <br>
@@ -87,9 +88,9 @@ Dalam topologi yang telah dibuat di Cisco Packet Tracer, beberapa node yang perl
    <br>
  
 # **Test Ping**
-Untuk melihat apakah IP yang dimasukkan terpasang dan terhubung secara efisien, dapat dilakukan ping test untuk setiap node. Contohnya adalah 
-<br>
+Untuk melihat apakah IP yang dimasukkan terpasang dan terhubung secara efisien, dapat dilakukan ping test untuk setiap node. Contohnya adalah
 PC ke PC, PC ke Router, PC ke Server, dan sebagainya.
+<br>
 <br>
 Pertama, tekan tombol surat yang terdapat pada menu cisco packet tracer (atau dengan shortcut tombol "P" pada keyboard)
 <br>
