@@ -5,7 +5,7 @@ Kelompok:
 - Hafizh Abid Wibowo (5027201011)
 - Muhammad Farrel Abdillah (50272010570)
 <br>
-Berikut adalah Dokumentasi dan langkah pengerjaan untuk laporan resmi praktikum jarkom modul 4 oleh kelompok ITA10
+Berikut adalah Dokumentasi dan langkah pengerjaan untuk laporan resmi praktikum jarkom modul 4 oleh ITA10
 <br>
 
 # **Konfigurasi: Topologi**
